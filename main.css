@@ -1,0 +1,21 @@
+img {
+	width: 400px;
+  }
+ h3{
+	color: red;
+}
+#work{
+	color:blueviolet
+}
+.major{
+	color:coral
+}
+a:hover {
+	background-color: yellow;
+  }
+div {
+	width: 300px;
+	border: 15px solid green;
+	padding: 50px;
+	margin: 20px;
+  }
